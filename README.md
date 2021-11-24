@@ -2,7 +2,7 @@
 - 👀 I’m interested in: Game Development
 - 🌱 I’m currently learning: Lua & JavaScript
 - 💞️ I’m looking to collaborate on: Cool Stuff
-- 📫 How to reach me: https://www.sectly.online/
+- 📫 How to reach me: https://www.sectly.online/#contact
 - 🌐 My website: https://www.sectly.online/
 
 <!---
