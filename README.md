@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Sectly
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Lua & .JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in: Game Development
+- 🌱 I’m currently learning: Lua & JavaScript
+- 💞️ I’m looking to collaborate on: Cool Stuff
+- 📫 How to reach me: https://www.sectly.online/
+- 🌐 My website: https://www.sectly.online/
 
 <!---
 Sectly/Sectly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
