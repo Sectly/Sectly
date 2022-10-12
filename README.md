@@ -7,6 +7,9 @@
 
 [![Sectly's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sectly&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sectly&repo=SectDB&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sectly&repo=logcon&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 Sectly/Sectly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
