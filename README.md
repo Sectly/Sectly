@@ -7,7 +7,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Sectly&style=for-the-badge)
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/587708664488656933?theme=dark&bg=121d2e&animated=true&hideDiscrim=false&borderRadius=20px&idleMessage=Just%20Programming...)](https://discord.com/users/587708664488656933)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/587708664488656933?theme=dark&bg=09131b&animated=true&hideDiscrim=false&borderRadius=20px&idleMessage=Just%20Programming...)](https://discord.com/users/587708664488656933)
 
 [![Sectly's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sectly&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
