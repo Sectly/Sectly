@@ -5,6 +5,8 @@
 - 📫 How to reach me: https://www.sectly.online/#contact
 - 🌐 My website: https://www.sectly.online/
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/587708664488656933?theme=dark&bg=09131b)](https://discord.com/users/587708664488656933)
+
 [![Sectly's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sectly&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
 [![SectDB Card](https://github-readme-stats.vercel.app/api/pin/?username=Sectly&repo=SectDB&theme=codeSTACKr)](https://github.com/Sectly/SectDB)
