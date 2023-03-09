@@ -5,7 +5,15 @@
 - 📫 How to reach me: https://www.sectly.online/#contact
 - 🌐 My website: https://www.sectly.online/
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/587708664488656933?theme=dark&bg=09131b)](https://discord.com/users/587708664488656933)
+![](https://komarev.com/ghpvc/?username=Sectly)
+
+<!-- ![](https://github-readme-stats.vercel.app/api?username=Sectly&theme=dark) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sectly&theme=dark) -->
+<!-- 
+<a href="https://discord.com/users/587708664488656933">
+  <img src="https://lanyard-profile-readme.vercel.app/api/587708664488656933" align="left" />
+</a> -->
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/587708664488656933?theme=dark&bg=121d2e&animated=true&hideDiscrim=false&borderRadius=20px&idleMessage=Just%20Programming...)](https://discord.com/users/587708664488656933)
 
 [![Sectly's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sectly&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
