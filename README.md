@@ -12,3 +12,5 @@ Greetings, I’m @Sectly i specialize in JavaScript, Lua, HTML/CSS & More!
 [![Logcon Card](https://github-readme-stats.vercel.app/api/pin/?username=Sectly&repo=logcon&theme=codeSTACKr&title_color=ffffff)](https://github.com/Sectly/logcon)
 
 [![Sectly's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sectly&langs_count=8&theme=codeSTACKr&title_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My Skills]([https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev](https://skillicons.dev/icons?i=js,html,css,nodejs,php,lua,go,c,cs,v,md,npm,express,jquery,bots,github,git,codepen,linkedin,twitter,discord,discordjs,regex,robloxstudio,arduino,bash,powershell,linux,windows,debian&theme=dark)https://skillicons.dev/icons?i=js,html,css,nodejs,php,lua,go,c,cs,v,md,npm,express,jquery,bots,github,git,codepen,linkedin,twitter,discord,discordjs,regex,robloxstudio,arduino,bash,powershell,linux,windows,debian&theme=dark)
