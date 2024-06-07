@@ -16,6 +16,6 @@ Greetings, I’m @Sectly i specialize in JavaScript, Lua, HTML/CSS & More!
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,php,lua,go,c,cs,v,md,npm,express,jquery,bots,github,git,codepen,linkedin,twitter,discord,discordjs,regex,robloxstudio,arduino,bash,powershell,linux,windows,debian&theme=dark)](https://skillicons.dev)
 
 ```math
-\ce{$\unicode[goombafont; color:red; z-index: -10; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 1; background: url('https://sectly.online/CDN/MiniSploit.png');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; z-index: -10; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 1; background: url('https://github.com/Sectly/Sectly/blob/main/SectlyLogo.png?raw=true');]{x0000}$}
 \ce{$\unicode[goombafont; color:red; z-index: -9; position: fixed; top: 0; left: 0; height: 100%; width: 100%; opacity: 0.9; background: var(--bgColor-default);]{x0000}$}
 ```
